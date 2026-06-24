@@ -24,8 +24,27 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability in Nova File Manager, please report it responsibly.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please include:
+
+A detailed description of the issue
+Steps to reproduce the vulnerability
+Device model and Android version
+App version
+Screenshots or logs (if available)
+Response Timeline
+
+Initial response within 7 business days
+Investigation and assessment within 14 business days
+
+Security fixes released as soon as reasonably possible
+
+What to Expect
+
+If the vulnerability is accepted, we will investigate, develop a fix, and include it in a future update.
+
+If the report is declined, we will explain why the issue is not considered a security vulnerability or is outside the scope of this policy.
+Please do not publicly disclose security vulnerabilities until they have been reviewed and resolved.
+
+Thank you for helping keep Nova File Manager safe and secure for all users
